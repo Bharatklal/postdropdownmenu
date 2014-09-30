@@ -1,0 +1,12 @@
+Use Post Dropdown Menu With Contact Form 7
+Just generate a post drop down menu 
+NAME OF THE POSTDROPDOWN should be set as cat-"catogory id of posts you want to fetch";
+
+Example of shortcode is 
+[Postdropdown cat-1]
+this will fetch all post of category id 1 in a dropdown menu
+
+
+
+DEVELOPED BY BHARAT KR LAL
+bharatklal@facebook.com
